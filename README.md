@@ -29,8 +29,13 @@ The parameter tuning and feature selection results are available in "Results" fo
 
 The final report is available as a PDF within the GitHub respository below.
 
-The GitHub repository in located here: [here](https://github.com/dkim319/AirBnB-Listing-Analysis)
+The GitHub repository in located here: [here](https://github.com/dkim319/NFL_Predictive_Model_v2)
 
+## 2019 NFL Reason Progress Results<a name="results"></a>
+
+There will be weekly Medium posts tracking the performance on the model for the NFL 2019 season.
+
+[Week 2](https://medium.com/@dkim319/nfl-predictions-week-2-647d4ab51192?source=friends_link&sk=d7d4ffb756e22cadef25e8ca9d397840)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
