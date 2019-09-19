@@ -11,6 +11,8 @@
 
 There code only requires the standard installation of Anaconda Python.  It will requires Pip to install the pandas, numpy, sklearn, and xgboost libraries.
 
+Important Note:  The XGBoost version used for this project is 0.81.  Using version 0.90 will result in different results.
+
 ## Project Motivation<a name="motivation"></a>
 
 The purpose of this project is to continue improvement one of my projects to incorporate lessons learned and additional techinques.
