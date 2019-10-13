@@ -38,6 +38,13 @@ The GitHub repository in located here: [here](https://github.com/dkim319/NFL_Pre
 There will be weekly Medium posts tracking the performance on the model for the NFL 2019 season.
 
 [Week 2](https://medium.com/@dkim319/nfl-predictions-week-2-647d4ab51192?source=friends_link&sk=d7d4ffb756e22cadef25e8ca9d397840)
+[Week 3](https://medium.com/@dkim319/nfl-predictions-week-3-de9bf167ef4c?source=friends_link&sk=ce81a0f6948e6fd9c6d7d5235eaeb11a)
+[Week 4](https://medium.com/@dkim319/nfl-predictions-week-4-ad00f1eb3d75?source=friends_link&sk=a1ade298886ceb40ab485f310ea7b6c4)
+[Week 5](https://medium.com/@dkim319/nfl-predictions-week-5-f917c0d578a9?source=friends_link&sk=52d388d5fff7cffbaf7094ef0bb7c5d5)
+[Week 6](https://medium.com/@dkim319/nfl-predictions-week-6-61e13d7e9ab1?source=friends_link&sk=11953b5e60d48919ed0b6ecfb3edc053)
+
+
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
