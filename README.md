@@ -42,6 +42,15 @@ There will be weekly Medium posts tracking the performance on the model for the 
 [Week 4](https://medium.com/@dkim319/nfl-predictions-week-4-ad00f1eb3d75?source=friends_link&sk=a1ade298886ceb40ab485f310ea7b6c4)
 [Week 5](https://medium.com/@dkim319/nfl-predictions-week-5-f917c0d578a9?source=friends_link&sk=52d388d5fff7cffbaf7094ef0bb7c5d5)
 [Week 6](https://medium.com/@dkim319/nfl-predictions-week-6-61e13d7e9ab1?source=friends_link&sk=11953b5e60d48919ed0b6ecfb3edc053)
+[Week 7](https://medium.com/@dkim319/week-7-predictions-a43c6923a526?source=friends_link&sk=a68089d50e7f067339d7e0ee7c7e826b)
+[Week 8](https://medium.com/@dkim319/week-8-predictions-32afed55eb7c?source=friends_link&sk=36fc154a9f8e24c0e78ec8f045af4eaf)
+[Week 9](https://medium.com/@dkim319/nfl-predictions-week-9-9e0efbdc1757?source=friends_link&sk=808ffd441011ed8c653a72ff73fd9523)
+[Week 10](https://medium.com/@dkim319/nfl-predictions-week-9-9e0efbdc1757?source=friends_link&sk=808ffd441011ed8c653a72ff73fd9523)
+[Week 11](https://medium.com/@dkim319/nfl-predictions-week-9-9e0efbdc1757?source=friends_link&sk=808ffd441011ed8c653a72ff73fd9523)
+[Week 12](https://medium.com/@dkim319/nfl-predictions-week-12-d959731c2791?source=friends_link&sk=4b746852ae35205cdb7d7bb3aaeef5dc)
+[Week 13](https://medium.com/@dkim319/nfl-predictions-week-13-e7274d0cfc28?source=friends_link&sk=c53c110d605f8261f1d86a862e136e6a)
+[Week 15](https://medium.com/@dkim319/nfl-predictions-week-15-2542dd0ead64?source=friends_link&sk=222d721a2c8a781dc7cb6e7dcda71895)
+
 
 
 
